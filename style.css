@@ -11,4 +11,20 @@
     font-family: sans-serif;
 }
 
+.recipe-title {
+    text-align: center;
+    background-color: green;
+    color: white;
+}
 
+.pictures {
+    height: 500px;
+    width: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.headings {
+    background-color: lightgreen;
+}
